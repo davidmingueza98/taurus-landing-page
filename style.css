@@ -1989,10 +1989,13 @@ p {
 }
 .testimonial-5 .single-testimonial .author h4 span {
   color: var(--dark-3);
-  display: block;
+  display: inline;
   font-size: 14px;
   font-weight: 400;
   margin-top: 4px;
+}
+.testimonial-5 .single-testimonial .author .checked {
+  color: orange;
 }
 
 /*===== latest-news-area =====*/
