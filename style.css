@@ -1540,6 +1540,7 @@ p {
 
 /*===== PRICING THIRTEEN =====*/
 .pricing-fourteen {
+  background-color: var(--light-3);
   padding: 100px 0;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -1631,6 +1632,9 @@ p {
 }
 .pricing-style-fourteen .table-list li i.deactive {
   color: var(--dark-3);
+}
+.pricing-fourteen .col-lg-4 {
+  margin: auto;
 }
 
 
