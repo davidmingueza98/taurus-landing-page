@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap"); */
 /*===========================
   COMMON css 
 ===========================*/
 :root {
-  --font-family: "Inter", sans-serif;
+  --font-family: "Kastelov Axiforma", Helvetica, Arial, sans-serif;
   --primary: #679aff;
   --primary-dark: #266eff;
   --primary-light: #e2f1ff;
@@ -58,6 +58,65 @@
     0px 16px 24px rgba(96, 97, 112, 0.16);
   --shadow-6: 0px 2px 8px rgba(40, 41, 61, 0.08),
     0px 20px 32px rgba(96, 97, 112, 0.24);
+}
+
+@font-face {
+  font-family: "Kastelov Axiforma";
+  src: url('assets/fonts/kastelov/Kastelov-AxiformaRegular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kastelov Axiforma";
+  src: url('assets/fonts/kastelov/Kastelov-AxiformaItalic.otf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Kastelov Axiforma Bold */
+@font-face {
+  font-family: "Kastelov Axiforma";
+  src: url('assets/fonts/kastelov/Kastelov-AxiformaBold.otf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url('assets/fonts/kastelov/Kastelov-AxiformaBoldItalic.otf');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Kastelov Axiforma Thin */
+@font-face {
+  font-family: "Kastelov Axiforma";
+  src: url('assets/fonts/kastelov/Kastelov-AxiformaThin.otf');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kastelov Axiforma";
+  src: url('assets/fonts/kastelov/Kastelov-AxiformaThinItalic.otf');
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* Kastelov Axiforma Light */
+@font-face {
+  font-family: "Kastelov Axiforma";
+  src: url('assets/fonts/kastelov/Kastelov-AxiformaLight.otf');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kastelov Axiforma";
+  src: url('assets/fonts/kastelov/Kastelov-AxiformaLightItalic.otf');
+  font-weight: 200;
+  font-style: italic;
 }
 
 body {
