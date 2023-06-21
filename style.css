@@ -62,14 +62,14 @@
 
 @font-face {
   font-family: "Kastelov Axiforma";
-  src: url('assets/fonts/kastelov/Kastelov-AxiformaRegular.otf');
+  src: url('assets/fonts/Kastelov/Kastelov-AxiformaRegular.otf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Kastelov Axiforma";
-  src: url('assets/fonts/kastelov/Kastelov-AxiformaItalic.otf');
+  src: url('assets/fonts/Kastelov/Kastelov-AxiformaItalic.otf');
   font-weight: normal;
   font-style: italic;
 }
@@ -77,14 +77,14 @@
 /* Kastelov Axiforma Bold */
 @font-face {
   font-family: "Kastelov Axiforma";
-  src: url('assets/fonts/kastelov/Kastelov-AxiformaBold.otf');
+  src: url('assets/fonts/Kastelov/Kastelov-AxiformaBold.otf');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Fira Sans";
-  src: url('assets/fonts/kastelov/Kastelov-AxiformaBoldItalic.otf');
+  src: url('assets/fonts/Kastelov/Kastelov-AxiformaBoldItalic.otf');
   font-weight: 700;
   font-style: italic;
 }
@@ -92,14 +92,14 @@
 /* Kastelov Axiforma Thin */
 @font-face {
   font-family: "Kastelov Axiforma";
-  src: url('assets/fonts/kastelov/Kastelov-AxiformaThin.otf');
+  src: url('assets/fonts/Kastelov/Kastelov-AxiformaThin.otf');
   font-weight: 100;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Kastelov Axiforma";
-  src: url('assets/fonts/kastelov/Kastelov-AxiformaThinItalic.otf');
+  src: url('assets/fonts/Kastelov/Kastelov-AxiformaThinItalic.otf');
   font-weight: 100;
   font-style: italic;
 }
@@ -107,14 +107,14 @@
 /* Kastelov Axiforma Light */
 @font-face {
   font-family: "Kastelov Axiforma";
-  src: url('assets/fonts/kastelov/Kastelov-AxiformaLight.otf');
+  src: url('assets/fonts/Kastelov/Kastelov-AxiformaLight.otf');
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Kastelov Axiforma";
-  src: url('assets/fonts/kastelov/Kastelov-AxiformaLightItalic.otf');
+  src: url('assets/fonts/Kastelov/Kastelov-AxiformaLightItalic.otf');
   font-weight: 200;
   font-style: italic;
 }
